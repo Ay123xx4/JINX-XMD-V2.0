@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "JINX-XMD",
   botOwner: 'Professor', // Your name
-  ownerNumber: '2349162115028', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '2348146671727', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
